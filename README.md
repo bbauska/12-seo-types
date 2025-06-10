@@ -79,22 +79,46 @@ appealing to search engines and users.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li><b>Improved Rankings:</b> On-page SEO can help improve the ranking of individual web pages in SERPs, leading to increased organic traffic.</li>
-  <li><b>Increased <a href="">Click-Through Rate (CTR)</a>:</b> By optimizing title tags and meta descriptions, on-page SEO can increase the CTR of search results, leading to more visitors to the website.</li>
-  <li><b>Improved User Experience:</b> On-page SEO can improve the user experience by making web pages more relevant, informative, and engaging. This can lead to increased time on site, lower bounce rates, and higher conversion rates.</li>
-  <li><b>Better Crawlability and Indexability:</b> By optimizing the structure and content of a web page, on-page SEO can make it easier for search engines to crawl and index the page, ensuring that it appears in relevant search results.</li>
+  <li><b>Increased <a href="https://www.geeksforgeeks.org/click-through-rate-ctr-definition-formula-and-factors-affecting-ctr/">
+    Click-Through Rate (CTR)</a>:</b> By optimizing title tags and meta descriptions, 
+	on-page SEO can increase the CTR of search results, leading to more visitors to 
+	the website.</li>
+  <li><b>Improved User Experience:</b> On-page SEO can improve the user experience by 
+    making web pages more relevant, informative, and engaging. This can lead to increased 
+	time on site, lower bounce rates, and higher conversion rates.</li>
+  <li><b>Better Crawlability and Indexability:</b> By optimizing the structure and content 
+    of a web page, on-page SEO can make it easier for search engines to crawl and index the 
+	page, ensuring that it appears in relevant search results.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Elements of On-Page SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>There can be multiple elements of On-Page SEO, some of the most common are as follows:</p>
 <ul>
-  <li><b>Title Tag:</b> The title tag is the clickable headline that appears in search engine results. It should be concise, descriptive, and include relevant keywords.</li>
-  <li><b><a href="">Meta Description:</a></b> The meta description is a brief summary of the web page that appears below the title tag in search results. It should be informative and compelling to encourage users to click on the link.</li>
-  <li><b>Header Tags:</b> Header tags (H1, H2, H3, etc.) are used to structure the content on a web page and indicate the importance of different sections. They should be used strategically to highlight important keywords and phrases.</li>
-  <li><b>Content:</b> The content on a web page should be high-quality, relevant to the target audience, and optimized for relevant keywords. It should be well-written, engaging, and informative.</li>
-  <li><b>Images:</b> Images can enhance the user experience and make a web page more visually appealing. However, they should be optimized for the web by compressing them and using descriptive alt tags.</li>
-  <li><b><a href="">Internal Links</a>:</b> Internal links connect different pages on the same website. They help search engines understand the structure of the website and distribute link equity throughout the site.</li>
-  <li><b><a href="">External Links</a>:</b> External links connect a web page to other websites. They can be used to provide additional information, cite sources, or build relationships with other websites.</li>
+  <li><b>Title Tag:</b> The title tag is the clickable headline that appears in 
+    search engine results. It should be concise, descriptive, and include relevant 
+	keywords.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/what-is-meta-description-in-seo-defintion-use-and-importance/">
+    Meta Description:</a></b> The meta description is a brief summary of the web page 
+	that appears below the title tag in search results. It should be informative and 
+	compelling to encourage users to click on the link.</li>
+  <li><b>Header Tags:</b> Header tags (H1, H2, H3, etc.) are used to structure the 
+    content on a web page and indicate the importance of different sections. They 
+	should be used strategically to highlight important keywords and phrases.</li>
+  <li><b>Content:</b> The content on a web page should be high-quality, relevant to 
+    the target audience, and optimized for relevant keywords. It should be well-written, 
+	engaging, and informative.</li>
+  <li><b>Images:</b> Images can enhance the user experience and make a web page more 
+    visually appealing. However, they should be optimized for the web by compressing 
+	them and using descriptive alt tags.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/difference-between-external-link-and-internal-link/">
+    Internal Links</a>:</b> Internal links connect different pages on the same website. 
+	They help search engines understand the structure of the website and distribute link 
+	equity throughout the site.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/what-are-external-links/">
+    External Links</a>:</b> External links connect a web page to other websites. They can 
+	be used to provide additional information, cite sources, or build relationships with 
+	other websites.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2. Off-Page SEO</h2>
@@ -108,7 +132,8 @@ and engaging in other activities to increase the authority and popularity of the
 <h3>Elements of Off-Page SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li><b><a href="">Backlinks</a></b>: Backlinks are links from other websites to a specific web page. 
+  <li><b><a href="https://www.geeksforgeeks.org/backlinks-in-seo/">
+    Backlinks</a></b>: Backlinks are links from other websites to a specific web page. 
     They are a key factor in determining the authority and popularity of a website in 
 	the eyes of search engines. Hence they plays an integral role in as a part of one 
 	of the type of SEO (Search Engine Optimization).</li>
@@ -247,22 +272,24 @@ engine results and attract potential customers. Here are key elements of e-comme
 
 <!-- image of 5. e-commerce-seo -->
 <ol type="1">
-  <li><b><a href="">Keyword Research</a></b>:<br>
-  Identifying and targeting relevant keywords related to the products or services offered 
-  on the e-commerce site.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/">
+    Keyword Research</a></b>:<br>
+	Identifying and targeting relevant keywords related to the products or services offered 
+	on the e-commerce site.</li>
   <li><b>Product Descriptions:</b><br>
-  Writing unique and compelling product descriptions with a focus on using relevant 
-  keywords naturally.</li>
+    Writing unique and compelling product descriptions with a focus on using relevant 
+	keywords naturally.</li>
   <li><b>On-Page Optimization (SEO)</b>:<br>
-  Optimizing product pages and category pages for search engines, including meta titles, 
-  meta descriptions, headers, and image alt text.</li>
+    Optimizing product pages and category pages for search engines, including meta titles, 
+	meta descriptions, headers, and image alt text.</li>
   <li><b>User-Friendly URLs</b>:<br>
     Creating clean and user-friendly URLs that include relevant keywords and accurately 
 	describe the content.
     For Example:- www.geeksforgeeks.org</li>
   <li><b>Site Structure</b>:<br>
     Ensuring a logical and intuitive site structure that makes it easy for both users and search engines to navigate.</li>
-  <li><b>Mobile Optimization</b>:<br>
+  <li><b><a href="https://www.geeksforgeeks.org/mobile-search-engine-optimization-seo/">
+    Mobile Optimization</a></b>:<br>
     Optimizing the e-commerce site for mobile devices to cater to the growing number of 
 	users who shop on smartphones and tablets.</li>
 </ol>
@@ -290,10 +317,11 @@ and rankings in search engine results. This is crucial for getting videos discov
 by a larger audience and increasing views. Here are key elements of video SEO:</p>
 
 <ol type="1">
-  <li><b><a href="">Keyword Research</a></b>:<br>
+  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/">
+    Keyword Research</a></b>:<br>
     Identifying relevant keywords for your video content. This includes using tools to 
 	find keywords that align with your video's topic and have a good search volume.</li>
-  <li>Video Title:<br>
+  <li><b>Video Title</b>:<br>
     Crafting a compelling and keyword-rich title for your video. This should accurately 
 	represent the content and entice viewers to click.</li>
   <li><b>Video Description</b>:<br>
@@ -602,7 +630,7 @@ its visibility and ranking in search engine results. It involves creating high-q
 relevant, and valuable content that is not only attractive to users but also aligns with 
 search engine algorithms. Here are key elements of content SEO:</p>
 <ol>
-  <li><b>1. Keyword Research</b>:<br>
+  <li><b>Keyword Research</b>:<br>
     Conducting keyword research to identify relevant and high-performing keywords related to 
 	your content. Use tools like Google Keyword Planner or other keyword research tools to 
 	find terms that users are searching for.</li>
