@@ -26,32 +26,33 @@ img.displayed {
   font-weight: 100;
 }
 
-blockquote{    
-    font-size: 13px;  /* 35px; */
-    line-height:32px;  /* 52px; */
-    margin: 14px 0;  /* 28px */
-    overflow: hidden;
-    padding: 0 0 0 13px;  /* 0 0 0 26px; */
-    font-weight: 500;  /* 100 */
-    color: #000000;  /* cc6b39; moderate orange */
-    position: relative;
+blockquote {
+  font-size: 13px;  /* 35px; */
+  line-height:32px;  /* 52px; */
+  margin: 14px 0;  /* 28px */
+  overflow: hidden;
+  padding: 0 0 0 13px;  /* 0 0 0 26px; */
+  font-weight: 500;  /* 100 */
+  color: #000000;  /* cc6b39; moderate orange */
+  position: relative;
 }
 blockquote:before {
-    content: "";
-    border-left: 2px solid #39348f;  /* dark moderate blue */
-    position: absolute;
-    bottom: 7px;  /* 14px; */
-    top: 7px; /* 13px; */
-    left: 15px;  /* 0 */
+  content: "";
+  border-left: 2px solid #39348f;  /* dark moderate blue */
+  position: absolute;
+  bottom: 7px;  /* 14px; */
+  top: 7px; /* 13px; */
+  left: 15px;  /* 0 */
 }
 
 font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", 
   "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 
-p { font-size: 13px;
-    font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-    text-align: left; 
-    margin-left: 5px; }
+p { 
+  font-size: 13px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  text-align: left; 
+  margin-left: 5px; }
 p.em1 {
   margin-left: 1em; }
 p.em2 {
@@ -75,18 +76,30 @@ a.three:link {color:#ffff00;}
 a.three:visited {color:#000;}
 a.three:hover {background:#ee7;}
 
-h1 { font-size: 21px;
-     font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h2 { font-size: 18px;
-     font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h3 { font-size: 17px;
-     font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h4 { font-size: 15px;
-     font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; }
-h5 { font-size: 12px;
-     font-family: Bahnschrift, Inter, Helvetic, sans-serif; }
-h6 { font-size: 10px;
-     font-family: Consolas, Inter, Bahnschrift, Inter, Helvetic, sans-serif; }
+h1 { 
+  font-size: 21px;
+  font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; 
+}
+h2 { 
+  font-size: 18px;
+  font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; 
+}
+h3 { 
+  font-size: 17px;
+  font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; 
+}
+h4 { 
+  font-size: 15px;
+  font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; 
+}
+h5 { 
+  font-size: 12px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif; 
+}
+h6 { 
+  font-size: 10px;
+  font-family: Consolas, Inter, Bahnschrift, Inter, Helvetic, sans-serif; 
+}
 
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
@@ -95,26 +108,26 @@ body {
   color: #000000;  /* black */
   text-align: left;
   padding: 10px;
-  }
+}
 
-  #myBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    font-size: 13px;  /* 10 */
-    border: none;
-    outline: none;
-    background-color: #8b0000;  /* dark red */
-    color: #ffcccc;  /* very pale red (pink tone) */
-    cursor: pointer;
-    padding: 5px;  /* 15px */
-    border-radius: 1px;  /* 4px */
-  }
-  #myBtn:hover {
-    background-color: #ffc0cb;  /* very pale red */
-  }
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 13px;  /* 10 */
+  border: none;
+  outline: none;
+  background-color: #8b0000;  /* dark red */
+  color: #ffcccc;  /* very pale red (pink tone) */
+  cursor: pointer;
+  padding: 5px;  /* 15px */
+  border-radius: 1px;  /* 4px */
+}
+#myBtn:hover {
+  background-color: #ffc0cb;  /* very pale red */
+}
 
 details {
   font: 11px Inter, sans-serif, Bahnschrift, Calibri;
@@ -156,34 +169,34 @@ pre > code {
 }
 pre[href]:hover {
   text-decoration: none;
-  }
+}
 pre:hover, pre:focust { width: min-content; }
 
 /* line numbers */
-  .editor {
-    display: inline-flex;
-    gap: 10px;
-    font-family: monospace;
-    line-height: 21px;
-    background: #282a3a;
-    border-radius: 2px;
-    padding: 20px 10px;
-    height: 200px;
-    overflow-y: auto;
-  }
-  .line-numbers {
-    width: 20px;
-    text-align: right;
-    height: 9999px;
-  }
-  .line-numbers span {
-    counter-increment:  linenumber;
-  }
-  .line-numbers span::before {
-    content: counter(linenumber);
-    display: block;
-    color: #506882;  /* mostly desaturated dark blue */
-  }
+.editor {
+  display: inline-flex;
+  gap: 10px;
+  font-family: monospace;
+  line-height: 21px;
+  background: #282a3a;
+  border-radius: 2px;
+  padding: 20px 10px;
+  height: 200px;
+  overflow-y: auto;
+}
+.line-numbers {
+  width: 20px;
+  text-align: right;
+  height: 9999px;
+}
+.line-numbers span {
+  counter-increment:  linenumber;
+}
+.line-numbers span::before {
+  content: counter(linenumber);
+  display: block;
+  color: #506882;  /* mostly desaturated dark blue */
+}
 textarea {
   height: 9999px;
   line-height: 21px;
