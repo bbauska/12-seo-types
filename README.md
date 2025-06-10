@@ -411,7 +411,8 @@ SEO:</p>
 <h2>9. Voice SEO</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image of 9. voice-seo -->
-<p>Voice SEO involves optimizing a website and online presence to improve its visibility and accessibility through voice search and voice-activated devices.</p>
+<p>Voice SEO involves optimizing a website and online presence to improve its visibility 
+and accessibility through voice search and voice-activated devices.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Elements of Voice SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -425,17 +426,17 @@ important. Here are key elements of voice SEO:</p>
   <li><b>Natural Language Keywords</b>:<br>
     Focus on natural language keywords that people are likely to use when speaking, as voice 
 	searches tend to be more conversational.</li>
-  <li><b>Featured Snippets:<br>
+  <li><b>Featured Snippets</b>:<br>
     Aim to appear in featured snippets, as many voice search responses are drawn from these 
     concise and information-rich snippets.</li>
-  <li><b>Local Optimization:<br>
+  <li><b>Local Optimization</b>:<br>
     Optimize content for local searches, as a significant portion of voice searches is 
 	location-specific. Ensure your business information, such as address and phone number, 
 	is accurate and up-to-date.</li>
-  <li><b>Conversational Content:<br>
+  <li><b>Conversational Content</b>:<br>
     Create content that mimics the way people speak. Write in a conversational tone and 
   provide direct answers to common questions.</li>
-  <li><b>User Intent Understanding:<br>
+  <li><b>User Intent Understanding</b>:<br>
     Understand the user's intent behind voice searches. Optimize for informational, 
 	navigational, and transactional queries accordingly.</li>
 </ol>
@@ -492,7 +493,6 @@ tools to find suitable keywords.</h4>
 <h3>Benefits of YouTube SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li><b>
   <li><b>Increased Visibility</b>: By optimizing your videos for relevant keywords, you 
     can increase the chances of people finding your videos when they search for those 
 	keywords.</li>
