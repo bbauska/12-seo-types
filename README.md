@@ -87,7 +87,7 @@ appealing to search engines and users.</p>
 <p>There can be multiple elements of On-Page SEO, some of the most common are as follows:</p>
 <ul>
   <li><b>Title Tag:</b> The title tag is the clickable headline that appears in search engine results. It should be concise, descriptive, and include relevant keywords.</li>
-  <li><b><a href="Meta Description:</a></b> The meta description is a brief summary of the web page that appears below the title tag in search results. It should be informative and compelling to encourage users to click on the link.</li>
+  <li><b><a href="">Meta Description:</a></b> The meta description is a brief summary of the web page that appears below the title tag in search results. It should be informative and compelling to encourage users to click on the link.</li>
   <li><b>Header Tags:</b> Header tags (H1, H2, H3, etc.) are used to structure the content on a web page and indicate the importance of different sections. They should be used strategically to highlight important keywords and phrases.</li>
   <li><b>Content:</b> The content on a web page should be high-quality, relevant to the target audience, and optimized for relevant keywords. It should be well-written, engaging, and informative.</li>
   <li><b>Images:</b> Images can enhance the user experience and make a web page more visually appealing. However, they should be optimized for the web by compressing them and using descriptive alt tags.</li>
