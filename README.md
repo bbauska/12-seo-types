@@ -1,8 +1,16 @@
-# 12-seo-types
-12 Search Engine Optimization Types.
-<h1>12 Type of SEO</h1>
-<p>Description: Here are 12 Major Kinds of SEO, that we are going to discuss in this article in detail:</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1>12 Type of SEO Optimization</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of types of seo -->
 <table>
+  <caption>12 Major Kinds of SEO, that we will discuss in this article in detail (below).</caption>
+  <thead>
+    <tr>
+	  <th scope="col">Type of SEO</th>
+	  <th scope="col">Description</th>
+	</tr>
+  </thead>
+  <tbody>
   <tr>
     <th>On-Page SEO</th>
     <th>Optimizing individual web pages to improve their search engine rankings and attract more traffic.</th>
@@ -52,33 +60,44 @@
     <th>Content SEO</th>
     <th>Optimizing content on a website to improve its relevance and visibility in search engine results.</th>
   </tr>
+  </tbody>
 </table>
 
-Let us see about each Type of SEO one by one in detail.
-
+<p>Let us see about each Type of SEO one by one in detail.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>1. On-Page SEO</h2>
-<!-- image on-page-seo -->
-Types of SEO | On-Page SEO
-The first an the formost type of SEO Optimization is On-Page SEO, It refers to the optimization of individual web pages to improve their ranking in search engine results pages (SERPs). It is a methods of search engine optimization that involves optimizing various elements of a web page to make it more relevant and appealing to search engines and users.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 1. on-page-seo -->
+<p>The first an the formost type of SEO Optimization is On-Page SEO, It refers to the 
+optimization of individual web pages to improve their ranking in 
+<a href="https://www.geeksforgeeks.org/techtips/search-engine-results-page-serp-introduction-types-and-features/#">
+search engine results pages (SERPs)</a>. It is a methods of search engine optimization 
+that involves optimizing various elements of a web page to make it more relevant and 
+appealing to search engines and users.</p>
 
 <h3>Why is On-Page SEO Important?</h3>
-Improved Rankings: On-page SEO can help improve the ranking of individual web pages in SERPs, leading to increased organic traffic.
-Increased Click-Through Rate (CTR): By optimizing title tags and meta descriptions, on-page SEO can increase the CTR of search results, leading to more visitors to the website.
-Improved User Experience: On-page SEO can improve the user experience by making web pages more relevant, informative, and engaging. This can lead to increased time on site, lower bounce rates, and higher conversion rates.
-Better Crawlability and Indexability: By optimizing the structure and content of a web page, on-page SEO can make it easier for search engines to crawl and index the page, ensuring that it appears in relevant search results.
-Elements of On-Page SEO
-There can be multiple elements of On-Page SEO, some of the most common are as follows:
+<ul>
+  <li><b>Improved Rankings:</b> On-page SEO can help improve the ranking of individual web pages in SERPs, leading to increased organic traffic.</li>
+  <li><b>Increased <a href="">Click-Through Rate (CTR)</a>:</b> By optimizing title tags and meta descriptions, on-page SEO can increase the CTR of search results, leading to more visitors to the website.</li>
+  <li><b>Improved User Experience:</b> On-page SEO can improve the user experience by making web pages more relevant, informative, and engaging. This can lead to increased time on site, lower bounce rates, and higher conversion rates.</li>
+  <li><b>Better Crawlability and Indexability:</b> By optimizing the structure and content of a web page, on-page SEO can make it easier for search engines to crawl and index the page, ensuring that it appears in relevant search results.</li>
+</ul>
 
-Title Tag: The title tag is the clickable headline that appears in search engine results. It should be concise, descriptive, and include relevant keywords.
-Meta Description: The meta description is a brief summary of the web page that appears below the title tag in search results. It should be informative and compelling to encourage users to click on the link.
-Header Tags: Header tags (H1, H2, H3, etc.) are used to structure the content on a web page and indicate the importance of different sections. They should be used strategically to highlight important keywords and phrases.
-Content: The content on a web page should be high-quality, relevant to the target audience, and optimized for relevant keywords. It should be well-written, engaging, and informative.
-Images: Images can enhance the user experience and make a web page more visually appealing. However, they should be optimized for the web by compressing them and using descriptive alt tags.
-Internal Links: Internal links connect different pages on the same website. They help search engines understand the structure of the website and distribute link equity throughout the site.
-External Links: External links connect a web page to other websites. They can be used to provide additional information, cite sources, or build relationships with other websites.
-
+<h3>Elements of On-Page SEO</h3>
+<p>There can be multiple elements of On-Page SEO, some of the most common are as follows:</p>
+<ul>
+  <li><b>Title Tag:</b> The title tag is the clickable headline that appears in search engine results. It should be concise, descriptive, and include relevant keywords.</li>
+  <li><b><a href="Meta Description:</a></b> The meta description is a brief summary of the web page that appears below the title tag in search results. It should be informative and compelling to encourage users to click on the link.</li>
+  <li><b>Header Tags:</b> Header tags (H1, H2, H3, etc.) are used to structure the content on a web page and indicate the importance of different sections. They should be used strategically to highlight important keywords and phrases.</li>
+  <li><b>Content:</b> The content on a web page should be high-quality, relevant to the target audience, and optimized for relevant keywords. It should be well-written, engaging, and informative.</li>
+  <li><b>Images:</b> Images can enhance the user experience and make a web page more visually appealing. However, they should be optimized for the web by compressing them and using descriptive alt tags.</li>
+  <li><b><a href="">Internal Links</a>:</b> Internal links connect different pages on the same website. They help search engines understand the structure of the website and distribute link equity throughout the site.</li>
+  <li><b><a href="">External Links</a>:</b> External links connect a web page to other websites. They can be used to provide additional information, cite sources, or build relationships with other websites.</li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2. Off-Page SEO</h2>
-<!-- image off-page-seo -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image 2. off-page-seo -->
 Off-Page-SEO
 Types of SEO | Off-Page SEO
 Off-page SEO refers to the optimization of factors outside of a website to improve its ranking in SERPs. It involves building backlinks, promoting the website on social media, and engaging in other activities to increase the authority and popularity of the website.
@@ -102,4 +121,78 @@ Guest Posting: Guest posting involves writing and publishing articles on other w
     building backlinks, and engaging with potential customers on social media.</li>
 </ul>
 
-3. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>3. Technical SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 3. technical-seo -->
+
+
+
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>4. Local SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 4. local-seo -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>5. E-Commerce SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 5. e-commerce-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>6. Video SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 6. video-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>7. Image SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 7. image-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>8. International SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 8. international-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>9. Voice SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 9. voice-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>10. Youtube SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 10. youtube-seo -->
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>11. Social SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 11. social-seo -->
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>12. Content SEO</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of 12. content-seo -->
+
+
+
+
+
+
+
+
+
+
+
+
+
