@@ -70,16 +70,17 @@
 <!-- image of 1. on-page-seo -->
 <p>The first an the formost type of SEO Optimization is On-Page SEO, It refers to the 
 optimization of individual web pages to improve their ranking in 
-<a href="https://www.geeksforgeeks.org/techtips/search-engine-results-page-serp-introduction-types-and-features/#">
-search engine results pages (SERPs)</a>. It is a methods of search engine optimization 
-that involves optimizing various elements of a web page to make it more relevant and 
-appealing to search engines and users.</p>
+<a href="https://www.geeksforgeeks.org/techtips/search-engine-results-page-serp-introduction-types-and-features/#" 
+target="_blank" rel="noopener noreferrer">search engine results pages (SERPs)</a>. It is 
+a methods of search engine optimization that involves optimizing various elements of a 
+web page to make it more relevant and appealing to search engines and users.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Why is On-Page SEO Important?</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li><b>Improved Rankings:</b> On-page SEO can help improve the ranking of individual web pages in SERPs, leading to increased organic traffic.</li>
-  <li><b>Increased <a href="https://www.geeksforgeeks.org/click-through-rate-ctr-definition-formula-and-factors-affecting-ctr/">
+  <li><b>Increased <a href="https://www.geeksforgeeks.org/click-through-rate-ctr-definition-formula-and-factors-affecting-ctr/" 
+    target="_blank" rel="noopener noreferrer">
     Click-Through Rate (CTR)</a>:</b> By optimizing title tags and meta descriptions, 
 	on-page SEO can increase the CTR of search results, leading to more visitors to 
 	the website.</li>
@@ -98,7 +99,8 @@ appealing to search engines and users.</p>
   <li><b>Title Tag:</b> The title tag is the clickable headline that appears in 
     search engine results. It should be concise, descriptive, and include relevant 
 	keywords.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/what-is-meta-description-in-seo-defintion-use-and-importance/">
+  <li><b><a href="https://www.geeksforgeeks.org/what-is-meta-description-in-seo-defintion-use-and-importance/"
+    target="_blank" rel="noopener noreferrer">
     Meta Description:</a></b> The meta description is a brief summary of the web page 
 	that appears below the title tag in search results. It should be informative and 
 	compelling to encourage users to click on the link.</li>
@@ -111,14 +113,14 @@ appealing to search engines and users.</p>
   <li><b>Images:</b> Images can enhance the user experience and make a web page more 
     visually appealing. However, they should be optimized for the web by compressing 
 	them and using descriptive alt tags.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/difference-between-external-link-and-internal-link/">
-    Internal Links</a>:</b> Internal links connect different pages on the same website. 
-	They help search engines understand the structure of the website and distribute link 
-	equity throughout the site.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/what-are-external-links/">
-    External Links</a>:</b> External links connect a web page to other websites. They can 
-	be used to provide additional information, cite sources, or build relationships with 
-	other websites.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/difference-between-external-link-and-internal-link/"
+    target="_blank" rel="noopener noreferrer">Internal Links</a>:</b> Internal links 
+	connect different pages on the same website. They help search engines understand 
+	the structure of the website and distribute link equity throughout the site.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/what-are-external-links/" target="_blank" 
+    rel="noopener noreferrer">External Links</a>:</b> External links connect a web page to 
+	other websites. They can be used to provide additional information, cite sources, or 
+	build relationships with other websites.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2. Off-Page SEO</h2>
@@ -132,11 +134,11 @@ and engaging in other activities to increase the authority and popularity of the
 <h3>Elements of Off-Page SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li><b><a href="https://www.geeksforgeeks.org/backlinks-in-seo/">
-    Backlinks</a></b>: Backlinks are links from other websites to a specific web page. 
-    They are a key factor in determining the authority and popularity of a website in 
-	the eyes of search engines. Hence they plays an integral role in as a part of one 
-	of the type of SEO (Search Engine Optimization).</li>
+  <li><b><a href="https://www.geeksforgeeks.org/backlinks-in-seo/" target="_blank" 
+    rel="noopener noreferrer">Backlinks</a></b>: Backlinks are links from other websites 
+	to a specific web page. They are a key factor in determining the authority and 
+	popularity of a website in the eyes of search engines. Hence they plays an integral 
+	role in as a part of one of the type of SEO (Search Engine Optimization).</li>
   <li><b>Social Media Engagement:</b> Social media engagement, such as likes, shares, 
     and comments, can help increase the visibility and popularity of a website. It can 
 	also help build relationships with potential customers and drive traffic to the website.</li>
@@ -172,18 +174,19 @@ accessible to search engines and users.</p>
 <h3>Elements of Technical SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li><b><a href="https://www.geeksforgeeks.org/site-architecture-optimization/">
-    Website Sructure</a></b>: The structure of a website should be clear and easy to 
-	navigate. It should use a logical hierarchy of pages and categories to make it 
-	easy for search engines to crawl and index the website.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/ways-reduce-loading-time-website-set-1/">
-    Website Speed</a></b>: The speed at which a website loads is a key factor in 
-	determining its ranking in SERPs. A slow-loading website can lead to a high bounce 
-	rate and lower rankings.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/mobile-search-engine-optimization-seo/">
-    Mobile-Friendliness</a></b>: A website should be mobile-friendly to ensure that it 
-	can be easily accessed and used on mobile devices. This is becoming increasingly 
-	important as more and more people use mobile devices to access the internet.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/site-architecture-optimization/" 
+    target="_blank" rel="noopener noreferrer">Website Structure</a></b>: The structure of 
+	a website should be clear and easy to navigate. It should use a logical hierarchy of 
+	pages and categories to make it easy for search engines to crawl and index the website.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/ways-reduce-loading-time-website-set-1/" 
+    target="_blank" rel="noopener noreferrer">Website Speed</a></b>: The speed at which a 
+	website loads is a key factor in determining its ranking in SERPs. A slow-loading 
+	website can lead to a high bounce rate and lower rankings.</li>
+  <li><b><a href="https://www.geeksforgeeks.org/mobile-search-engine-optimization-seo/"
+    target="_blank" rel="noopener noreferrer">Mobile-Friendliness</a></b>: A website 
+	should be mobile-friendly to ensure that it can be easily accessed and used on mobile 
+	devices. This is becoming increasingly important as more and more people use mobile 
+	devices to access the internet.</li>
   <li><b>Security</b>: A website should be secure to protect user data and prevent 
     hacking. This can be done by using a secure hosting provider, implementing SSL 
 	encryption, and regularly updating software.</li>
@@ -194,27 +197,30 @@ accessible to search engines and users.</p>
 <h3>Benefits of Technical SEO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-  <li><b><a href="">Improved Rankings</a></b>: Technical SEO can help improve the ranking 
-    of a website in SERPs by making it more accessible to search engines and users.</li>
-  <li><b><a href="">Increased Organic Traffic</a></b>: By improving the website's 
-    structure, speed, and mobile-friendliness, technical SEO can increase organic traffic 
-	to the website.</li>
-  <li><b><a href="">Better User Experience</a></b>: Technical SEO can improve the user 
-    experience by making the website faster, easier to navigate, and more secure. This 
-	can lead to increased time on site, lower bounce rates, and higher conversion rates.</li>
-  <li><b><a href="">Improved Crawlability and Indexability</a></b>: By optimizing the 
-    website's structure and code, technical SEO can make it easier for search engines to 
-	crawl and index the website, ensuring that it appears in relevant search results.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Improved Rankings</a></b>: 
+    Technical SEO can help improve the ranking of a website in SERPs by making it more 
+	accessible to search engines and users.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Increased Organic Traffic</a></b>: 
+    By improving the website's structure, speed, and mobile-friendliness, technical SEO can 
+	increase organic traffic to the website.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Better User Experience</a></b>: 
+    Technical SEO can improve the user experience by making the website faster, easier to 
+	navigate, and more secure. This can lead to increased time on site, lower bounce rates, 
+	and higher conversion rates.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Improved Crawlability and 
+    Indexability</a></b>: By optimizing the website's structure and code, technical SEO 
+	can make it easier for search engines to crawl and index the website, ensuring that 
+	it appears in relevant search results.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>4. Local SEO</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image of 4. local-seo -->
-<p>Local SEO (<a href="">Search Engine Optimization</a>) is another type of SEO 
-Optimization , which is a set of strategies and techniques used to optimize a website 
-and its content to improve its visibility and ranking in local search results. It 
-focuses on targeting specific geographic locations and promoting a business's presence 
-in local search engines, directories, and maps.</p>
+<p>Local SEO (<a href="" target="_blank" rel="noopener noreferrer">Search Engine 
+Optimization</a>) is another type of SEO Optimization , which is a set of strategies 
+and techniques used to optimize a website and its content to improve its visibility and 
+ranking in local search results. It focuses on targeting specific geographic locations 
+and promoting a business's presence in local search engines, directories, and maps.</p>
 
 <p>It is one of the types of SEO that helps in increasing the visibility of a business in 
 local search results, attract more local customers, and drive more foot traffic to a 
@@ -229,21 +235,23 @@ optimizing Google My Business and other local business listings.</p>
     your Google My Business listing. This enhances the visibility of your company in 
 	local search results and on Google Maps. You can include important details like 
 	your company’s phone number, address, operating hours, and pictures.</li>
-  <li><b><a href="">On-Page SEO</a></b>: It includes developing content that is relevant 
-    to your website’s location, making sure that your NAP (Name, Address, Phone number) 
-	is consistently and clearly displayed, and optimizing your website for local keywords.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">On-Page SEO</a></b>: 
+    It includes developing content that is relevant to your website’s location, making 
+	sure that your NAP (Name, Address, Phone number) is consistently and clearly 
+	displayed, and optimizing your website for local keywords.</li>
   <li><b>Local Citations</b>: Creating accurate and consistent business listings on 
     numerous websites, social media platforms, and online directories. This aids search 
 	engines in confirming the address and credibility of your company.</li>
   <li><b>Online Reviews</b>: promoting and supervising user feedback on sites such as 
     Yelp, Google, and others. Your local SEO efforts can be enhanced by positive reviews.</li>
-  <li><b><a href="">Mobile Optimization</a></b>: Making sure your website is optimized 
-    for mobile devices is important because a lot of local searches are done on them.</li>
-  <li><b><a href="">Backlinks</a></b>: Obtaining reputable, high-quality backlinks from 
-    regional websites and pertinent trade publications.</li>
-  <li><b><a href="">Content Marketing</a></b>: Content marketing is the process of 
-    producing excellent, regionalized content that benefits your target audience and 
-	demonstrates your subject-matter competence.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Mobile Optimization</a></b>: 
+    Making sure your website is optimized for mobile devices is important because a lot of 
+	local searches are done on them.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Backlinks</a></b>: Obtaining 
+    reputable, high-quality backlinks from regional websites and pertinent trade publications.</li>
+  <li><b><a href="" target="_blank" rel="noopener noreferrer">Content Marketing</a></b>: 
+    Content marketing is the process of producing excellent, regionalized content that 
+	benefits your target audience and demonstrates your subject-matter competence.</li>
   <li><b>Social media</b>: Using social media sites to interact with the neighborhood 
     and advertise your goods and services.</li>
 </ul>
@@ -272,7 +280,8 @@ engine results and attract potential customers. Here are key elements of e-comme
 
 <!-- image of 5. e-commerce-seo -->
 <ol type="1">
-  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/">
+  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/" 
+    target="_blank" rel="noopener noreferrer">
     Keyword Research</a></b>:<br>
 	Identifying and targeting relevant keywords related to the products or services offered 
 	on the e-commerce site.</li>
@@ -288,7 +297,8 @@ engine results and attract potential customers. Here are key elements of e-comme
     For Example:- www.geeksforgeeks.org</li>
   <li><b>Site Structure</b>:<br>
     Ensuring a logical and intuitive site structure that makes it easy for both users and search engines to navigate.</li>
-  <li><b><a href="https://www.geeksforgeeks.org/mobile-search-engine-optimization-seo/">
+  <li><b><a href="https://www.geeksforgeeks.org/mobile-search-engine-optimization-seo/" 
+    target="_blank" rel="noopener noreferrer">
     Mobile Optimization</a></b>:<br>
     Optimizing the e-commerce site for mobile devices to cater to the growing number of 
 	users who shop on smartphones and tablets.</li>
@@ -317,7 +327,8 @@ and rankings in search engine results. This is crucial for getting videos discov
 by a larger audience and increasing views. Here are key elements of video SEO:</p>
 
 <ol type="1">
-  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/">
+  <li><b><a href="https://www.geeksforgeeks.org/keyword-research-what-is-it-how-to-do-it/"
+    target="_blank" rel="noopener noreferrer">
     Keyword Research</a></b>:<br>
     Identifying relevant keywords for your video content. This includes using tools to 
 	find keywords that align with your video's topic and have a good search volume.</li>
@@ -674,5 +685,5 @@ specific geographical audiences. Navigating and effectively utilizing these type
 empower content writers and website owners to not only enhance their online presence but 
 also attract more traffic, fostering sustainable growth in the competitive environment.</p>
 
-<p><a href="https://youtu.be/8Pa9x9fZBtY">Dire Straits Alchemy</a></p>
+<p><a href="https://youtu.be/8Pa9x9fZBtY" target="_blank" rel="noopener noreferrer">Dire Straits Alchemy</a></p>
 
